@@ -1,6 +1,6 @@
 # LAB 3
 
-Better yo use virtual venv by `python -m venv venv`
+Better use virtual venv by `python -m venv venv`
 
 `pip install Pyro4`
 
